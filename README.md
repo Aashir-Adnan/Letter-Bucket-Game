@@ -1,0 +1,7 @@
+--LETTER CATCHING GAME
+--//////////////////////////////////////////
+--CREATED BY AASHIR ADNAN
+
+--RUN AS IS ON DOSBOX AS PROJ3.COM
+--ENJOY!
+--/////////////////////////////////////////
